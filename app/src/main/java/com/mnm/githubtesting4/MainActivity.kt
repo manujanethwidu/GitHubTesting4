@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         println("3rd commit")
         println("4th Commit")
         println("Local Change")
-        println("Change1")
+        println("Change2")
 
     }
 }
