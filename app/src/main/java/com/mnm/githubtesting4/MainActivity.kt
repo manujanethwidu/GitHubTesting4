@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         println("4th Commit")
         println("Local Change")
         println("Change2")
+        println("Hellow From Friend")
 
     }
 }
