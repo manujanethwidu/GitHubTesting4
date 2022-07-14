@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
         println("Second Commit")
         println("3rd commit")
         println("4th Commit")
+        println("Local Change")
+        println("Experimental")
 
     }
 }
