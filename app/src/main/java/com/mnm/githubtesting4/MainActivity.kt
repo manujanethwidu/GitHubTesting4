@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         println("Local Change")
         println("Change2")
         println("Hellow From Friend")
+        println("This change is from a clone")
 
     }
 }
